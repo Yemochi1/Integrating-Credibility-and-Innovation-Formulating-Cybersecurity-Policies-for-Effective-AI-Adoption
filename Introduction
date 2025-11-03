@@ -1,1 +1,35 @@
 
+Introduction
+
+Over the last past 2 years, there has been one emerging technology that is dominating headlines across various industries. This is a disruptive technology that is literally changing the world. That technology is Artificial Intelligence (AI). The usage of artificial intelligence and machine learning is important in paving the future path [1].  AI has also affected the cybersecurity postures of organizations as well. AI also has many applications in different sectors and industries [2]. In our paper we are going to talk about the barriers of implementing AI to Cybersecurity process for different organizations. Due to AI ability identify and analyze new threats and points of weakness, it can be utilized in cybersecurity field[3]. We will present different ways to deal with this.
+Artificial Intelligence has been main stream for a few years now. Despite that current cybersecurity frameworks aren’t up to par with the growth of Artificial Intelligence. There is a lot that isn’t understood as well. There are barriers to implementation of Artificial Intelligence in cybersecurity polices that need to be addressed. We will do so in the paper through the following matter.
+We have the following contributions for the paper:
+•	Technical Difficulty. There is a lack of transparency with some of the AI models. This the black box problem that we discuss in our summary. This would be fixed by updating some of the policies. Companies with have to document logic and decision making of AI that deals with cybersecurity task.
+•	Encourage the development of AI/Cybersecurity worker policy: What we would do with this is provide tax credits or grants to companies that are going to take the time educate their staff on information relevant to AI. This includes but is not limited to machine learning operations, AI and threat analysis unique to AI.  We would execute this by providing funding for collaborations between academic institutions, tech schools and other entities that create programs that promote AI in cybersecurity.
+•	We would establish Safe Harbors and Regulatory Sandboxes that are concise and clear. Companies would be able to test their cybersecurity solutions.
+•	Data Governance can be improved as well. We would create uniform data exchange procedure and deidentification methods customized for cybersecurity threat intelligence.
+•	Implementation of a cybersecurity AI literacy program. This would be done establish a nationally acclaimed supported certification program aimed at c suite executives.  The course would go into a risk assessment model explanation report interpretation.
+•	Another option we can do is consider Global Data Anonymization and sharing standards for threat intelligence policy.  When it comes to this approach, we would create a global standard for anonymizing cybersecurity threats. We would also have AI model’s train on more comprehensive set of worldwide data that doesn’t compromise privacy.
+•	The last contribution is AI Specific cybersecurity standards. A lot of the policies for cybersecurity are outdated or doesn’t apply to AI at all. These standards would be updated. We would have frameworks that are always adapting. We would also have compliance audits as well.
+The remainder of the paper will illustrate the various issues with trying to implement AI to cybersecurity policies for organizations and the barriers to it. We will discuss the different ways to overcome each barrier. The paper will be structed in a way in which it’s similar to the points that were highlighted in proceeding paragraph.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Works Cited Page
+[1] N. Rawindaran, A. Jayal and E. Prakash, “Machine learning cybersecurity adoption in small and medium enterprises in developed countries,” Computers, vol. 10, no. 11, p. 150, Nov. 2021. [Online]. Available: https://doi.org/10.3390/computers10110150
+[2] M. F. Ansari, B. Dash, P. Sharma and N. Yathiraju, “The Impact and Limitations of Artificial Intelligence in Cybersecurity: A Literature Review,” International Journal of Advanced Research in Computer and Communication Engineering, vol. 11, no. 9, pp. 81-90, Sept. 2022. [Online]. Available: https://doi.org/10.17148/IJARCCE.2022.11912
+[3]B. Naik, A. Mehta, H. Yagnik and M. Shah, “The impacts of artificial intelligence techniques in augmentation of cybersecurity: a comprehensive review,” Complex & Intelligent Systems, vol. 8, pp. 1763–1780, Apr. 2022. https://doi.org/10.1007/s40747-021-00494-8
